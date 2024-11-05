@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },
+    {
+        "id":2,
+        "name":"Commedy Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":20,
+        "categoty":"Enjoy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":3,
+        "name":"Sport Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":50,
+        "categoty":"Sport",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":100,
+        "categoty":"Song",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":5,
+        "name":"Comic Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":6,
+        "name":"Aptitude Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":7,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":20,
+        "categoty":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":8,
+        "name":"REACT",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":9,
+        "name":"JAVA",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":10,
+        "name":"JAVASCRIPT",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    },{
+        "id":11,
+        "name":"Coding",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "categoty":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730446646~exp=1730450246~hmac=09bfdd6ad2779d85f0541e92dfb63030f3791d44fb8ab2e4e64c0cc65ad5027a&w=740"
+    }
+]
